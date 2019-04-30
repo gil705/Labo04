@@ -7,4 +7,7 @@ hamming opgave
 
 p1 ?110 = even = 1
 p2 ?110 = even = 1
-p4 ?110 = even = 1
+p4 ?110 = even = 1 X
+
+111 = 7
+De fout zit in de zevende bit, de hamming code zou 1110111 moeten zijn.
